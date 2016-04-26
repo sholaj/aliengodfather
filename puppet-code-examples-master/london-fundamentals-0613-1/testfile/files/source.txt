@@ -1,3 +1,0 @@
-
-
-This file was served from the puppet.

@@ -1,5 +1,0 @@
-
-
-This is a static file that touched the Puppet.
-
-
